@@ -1,1 +1,1 @@
-cyberbolt/baota
+nginx
