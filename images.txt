@@ -1,1 +1,1 @@
-jenkins/jenkins
+nacos/nacos-server
