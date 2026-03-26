@@ -1,1 +1,1 @@
-openjdk:17-jdk-slim
+ali-oss-gd.zwmsport.com
